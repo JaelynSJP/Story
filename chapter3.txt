@@ -1,2 +1,1 @@
-chp3 continue
-continue 2
+chp3 continue continue
